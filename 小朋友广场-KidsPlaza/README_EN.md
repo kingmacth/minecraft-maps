@@ -14,8 +14,8 @@ You spawn in a safe, lively town plaza: gear, food and tools in the shops are al
 | Game version | Bedrock Edition 1.21.130+ (Windows / Android / iOS) |
 | Mode | Survival (monsters roam outside town at night) |
 | Spawn | (3, 70, 6), the centre of the town plaza |
-| World file | `KidsPlaza-v3.16.mcworld` |
-| Current version | v3.16 |
+| World file | `KidsPlaza-v3.17.mcworld` |
+| Current version | v3.17 |
 
 Kid-friendly rules:
 
@@ -55,13 +55,17 @@ All **25 stocked containers on the map restock automatically**: the shops, house
 
 Each island has a west dock (plank deck, lantern, themed name sign), one boat moored for the trip back, and a snack chest where you land (bread, apples, carrots, a fishing rod, torches).
 
+### Beast Mount Park (west of the farm)
+
+On the southern plains, west of the farm (around -60, 100), a mount park keeps **2 ravagers and 2 polar bears**. A small behavior pack built into the world makes them docile, rideable and faster than horses. Walk up and tap "Ride" to mount; two buttons inside the park also auto-mount the nearest beast. They are safe to ride into town — the plaza's monster protection will not mistake them for wild monsters.
+
 ## How to play
 
 ### Import
 
-1. Download `KidsPlaza-v3.16.mcworld` from this folder
+1. Download `KidsPlaza-v3.17.mcworld` from this folder
 2. Open the file on Windows / Android / iOS — the game imports it automatically
-3. Pick **Kids Plaza 小朋友广场 v3.16** from your world list and play
+3. Pick **Kids Plaza 小朋友广场 v3.17** from your world list and play
 
 ### First steps
 
@@ -80,7 +84,8 @@ Each island has a west dock (plank deck, lantern, themed name sign), one boat mo
 
 ## Version history
 
-- **v3.16** (current): lava added (a lava lake in the west hills + underground lava pools), so the vanilla netherite upgrade path can be mined end to end
+- **v3.17** (current): new Beast Mount Park — ravagers and polar bears are rideable (a small behavior pack is built into the world file; nothing extra to install)
+- **v3.16**: lava added (a lava lake in the west hills + underground lava pools), so the vanilla netherite upgrade path can be mined end to end
 - **v3.15**: mainland coastline and strait restored to v3.12; the ore island's west side steepened
 - **v3.14**: every chest on the map restocks
 - **v3.13**: the three islands enlarged about 4×
@@ -90,7 +95,7 @@ Each island has a west dock (plank deck, lantern, themed name sign), one boat mo
 
 ## Files in this folder
 
-- `KidsPlaza-v3.16.mcworld` — the world file
-- `使用说明-KidsPlaza-v3.16.txt` — v3.16 release notes (Chinese)
+- `KidsPlaza-v3.17.mcworld` — the world file
+- `使用说明-KidsPlaza-v3.17.txt` — v3.17 release notes (Chinese)
 - `README.md` — this guide in Chinese
 - `README_EN.md` — this file (English)
