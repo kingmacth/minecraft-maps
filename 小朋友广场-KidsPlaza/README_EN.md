@@ -14,8 +14,8 @@ You spawn in a safe, lively town plaza: gear, food and tools in the shops are al
 | Game version | Bedrock Edition 1.21.130+ (Windows / Android / iOS) |
 | Mode | Survival (monsters roam outside town at night) |
 | Spawn | (3, 70, 6), the centre of the town plaza |
-| World file | `KidsPlaza-v3.17.mcworld` |
-| Current version | v3.17 |
+| World file | `KidsPlaza-v3.18.mcworld` |
+| Current version | v3.18 |
 
 Kid-friendly rules:
 
@@ -57,15 +57,15 @@ Each island has a west dock (plank deck, lantern, themed name sign), one boat mo
 
 ### Beast Mount Park (west of the farm)
 
-On the southern plains, west of the farm (around -60, 100), a mount park keeps **2 ravagers and 2 polar bears**. A small behavior pack built into the world makes them docile, rideable and faster than horses. Walk up and tap "Ride" to mount; two buttons inside the park also auto-mount the nearest beast. They are safe to ride into town — the plaza's monster protection will not mistake them for wild monsters.
+On the southern plains, west of the farm (around -60, 100), a mount park keeps **2 ravagers and 2 polar bears**. A small behavior pack built into the world makes them docile, rideable and faster than horses. Walk up and tap "Ride" to mount; two buttons inside the park also auto-mount the nearest beast. They are safe to ride into town — the plaza's monster protection will not mistake them for wild monsters. Once every mount of a species has been ridden away, the park automatically restocks two fresh ones, just like the chests.
 
 ## How to play
 
 ### Import
 
-1. Download `KidsPlaza-v3.17.mcworld` from this folder
+1. Download `KidsPlaza-v3.18.mcworld` from this folder
 2. Open the file on Windows / Android / iOS — the game imports it automatically
-3. Pick **Kids Plaza 小朋友广场 v3.17** from your world list and play
+3. Pick **Kids Plaza 小朋友广场 v3.18** from your world list and play
 
 ### First steps
 
@@ -84,7 +84,8 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Version history
 
-- **v3.17** (current): new Beast Mount Park — ravagers and polar bears are rideable (a small behavior pack is built into the world file; nothing extra to install)
+- **v3.18** (current): the mount park restocks itself — once every mount of a species has been ridden away, two fresh ones appear
+- **v3.17**: new Beast Mount Park — ravagers and polar bears are rideable (a small behavior pack is built into the world file; nothing extra to install)
 - **v3.16**: lava added (a lava lake in the west hills + underground lava pools), so the vanilla netherite upgrade path can be mined end to end
 - **v3.15**: mainland coastline and strait restored to v3.12; the ore island's west side steepened
 - **v3.14**: every chest on the map restocks
@@ -95,7 +96,7 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Files in this folder
 
-- `KidsPlaza-v3.17.mcworld` — the world file
-- `使用说明-KidsPlaza-v3.17.txt` — v3.17 release notes (Chinese)
+- `KidsPlaza-v3.18.mcworld` — the world file
+- `使用说明-KidsPlaza-v3.18.txt` — v3.18 release notes (Chinese)
 - `README.md` — this guide in Chinese
 - `README_EN.md` — this file (English)
