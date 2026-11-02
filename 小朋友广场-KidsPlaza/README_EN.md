@@ -14,8 +14,8 @@ You spawn in a safe, lively town plaza: gear, food and tools in the shops are al
 | Game version | Bedrock Edition 1.21.130+ (Windows / Android / iOS) |
 | Mode | Survival (monsters roam outside town at night) |
 | Spawn | (3, 70, 6), the centre of the town plaza |
-| World file | `KidsPlaza-v3.15.mcworld` |
-| Current version | v3.15 |
+| World file | `KidsPlaza-v3.16.mcworld` |
+| Current version | v3.16 |
 
 Kid-friendly rules:
 
@@ -42,7 +42,7 @@ All **25 stocked containers on the map restock automatically**: the shops, house
 - **North**: snowy mountains, peaks about 111 blocks high, with emerald ore in the rock
 - **East**: the ocean — the main pier has a boardwalk and a fishing platform, with 5 boats moored
 - **South**: plains and the farm — wheat fields, water channels and a farm chest; walk on the centre plank path so the crops are not trampled; there is a pond nearby
-- **West**: hills and forest, where wolves roam (bring bones to tame one into a dog)
+- **West**: hills and forest, where wolves roam (bring bones to tame one into a dog); the hills also hold a lava lake (-170, 75, -60) — scoop lava, pour water over it for obsidian, build a Nether portal, and mine the vanilla path to netherite upgrades for your diamond gear
 - **Underground**: solid stone under the whole map, seeded with ores by depth (coal and iron everywhere, gold and redstone mid-depth, diamonds deep down, emeralds only inside the mountains) — and a treasure chest buried under the town
 
 ### Three islands (sail east)
@@ -59,9 +59,9 @@ Each island has a west dock (plank deck, lantern, themed name sign), one boat mo
 
 ### Import
 
-1. Download `KidsPlaza-v3.15.mcworld` from this folder
+1. Download `KidsPlaza-v3.16.mcworld` from this folder
 2. Open the file on Windows / Android / iOS — the game imports it automatically
-3. Pick **Kids Plaza 小朋友广场 v3.15** from your world list and play
+3. Pick **Kids Plaza 小朋友广场 v3.16** from your world list and play
 
 ### First steps
 
@@ -80,7 +80,8 @@ Each island has a west dock (plank deck, lantern, themed name sign), one boat mo
 
 ## Version history
 
-- **v3.15** (current): mainland coastline and strait restored to v3.12; the ore island's west side steepened
+- **v3.16** (current): lava added (a lava lake in the west hills + underground lava pools), so the vanilla netherite upgrade path can be mined end to end
+- **v3.15**: mainland coastline and strait restored to v3.12; the ore island's west side steepened
 - **v3.14**: every chest on the map restocks
 - **v3.13**: the three islands enlarged about 4×
 - **v3.12**: the islands themed (forest / monster crypt / ore)
@@ -89,7 +90,7 @@ Each island has a west dock (plank deck, lantern, themed name sign), one boat mo
 
 ## Files in this folder
 
-- `KidsPlaza-v3.15.mcworld` — the world file
-- `使用说明-KidsPlaza-v3.15.txt` — v3.15 release notes (Chinese)
+- `KidsPlaza-v3.16.mcworld` — the world file
+- `使用说明-KidsPlaza-v3.16.txt` — v3.16 release notes (Chinese)
 - `README.md` — this guide in Chinese
 - `README_EN.md` — this file (English)
