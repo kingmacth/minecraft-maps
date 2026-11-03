@@ -10,7 +10,7 @@ All maps are for the Bedrock Edition and designed for group play: kid-friendly r
 
 | Map | About | Version |
 |---|---|---|
-| [Kids Plaza](小朋友广场-KidsPlaza/) | Spawn in a safe town plaza, free gear from the shops (Heidou's treat), self-restocking chests everywhere; mountains, an ocean, a farm and three themed islands to sail to | v3.18 |
+| [Kids Plaza](小朋友广场-KidsPlaza/) | Spawn in a safe town plaza, free gear from the shops (Heidou's treat), self-restocking chests everywhere; mountains, an ocean, a farm and three themed islands to sail to | v3.20 |
 
 New maps will be added to this collection as they are made. Each map folder has its own `README_EN.md` in English.
 

@@ -14,8 +14,8 @@ You spawn in a safe, lively town plaza: gear, food and tools in the shops are al
 | Game version | Bedrock Edition 1.21.130+ (Windows / Android / iOS) |
 | Mode | Survival (monsters roam outside town at night) |
 | Spawn | (3, 70, 6), the centre of the town plaza |
-| World file | `KidsPlaza-v3.18.mcworld` |
-| Current version | v3.18 |
+| World file | `KidsPlaza-v3.20.mcworld` |
+| Current version | v3.20 |
 
 Kid-friendly rules:
 
@@ -50,8 +50,9 @@ All **25 stocked containers on the map restock automatically**: the shops, house
 | Island | What's there |
 |---|---|
 | 🌲 Forest Island | A forest of 130 oak trees, with cows, sheep, pigs and chickens grazing |
-| 👹 Monster Island | Resident zombies, skeletons, spiders and creepers, 6 of each; a stone-brick crypt holds zombie and skeleton spawners guarding a chest of loot |
-| ⛏️ Ore Island | A whole island of rock with a heavily enriched ore body (about 20,000 ore blocks in sampled columns), with exposed ore visible on the slopes |
+| 👹 Monster Island | Farther out at sea and about twice the area; resident zombies, skeletons, spiders and creepers, 6 of each; a stone-brick crypt (zombie and skeleton spawners + loot chest) plus 4 open-air spawner altars keep the nights busy |
+| ⛏️ Ore Island | A whole island of rock, but the ore (about 20,000 blocks in sampled columns) is buried deep with none visible on the surface; a framed starter shaft with ladders drops you to digging depth |
+| ⛏️ Camp Mines | Three framed mine entrances near camp (No.1 at the north foothills, No.2 in the west hills, No.3 on the south plains): ladders down 14 blocks, then you dig yourself |
 
 Each island has a west dock (plank deck, lantern, themed name sign), one boat moored for the trip back, and a snack chest where you land (bread, apples, carrots, a fishing rod, torches).
 
@@ -63,9 +64,9 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ### Import
 
-1. Download `KidsPlaza-v3.18.mcworld` from this folder
+1. Download `KidsPlaza-v3.20.mcworld` from this folder
 2. Open the file on Windows / Android / iOS — the game imports it automatically
-3. Pick **Kids Plaza 小朋友广场 v3.18** from your world list and play
+3. Pick **Kids Plaza 小朋友广场 v3.20** from your world list and play
 
 ### First steps
 
@@ -84,7 +85,9 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Version history
 
-- **v3.18** (current): the mount park restocks itself — once every mount of a species has been ridden away, two fresh ones appear
+- **v3.20** (current): more small animals on the forest island (rabbits!); a 16-tree auto-regrow grove — chopped parts grow back within 30 seconds; the lava lake and underground lava pools refill themselves every 30 seconds
+- **v3.19**: Monster Island moved farther out, ~2x area, open-air spawners; ore island ore buried deep + starter shaft; three camp mine entrances; beacon made unbreakable (deny gap plugged)
+- **v3.18**: the mount park restocks itself — once every mount of a species has been ridden away, two fresh ones appear
 - **v3.17**: new Beast Mount Park — ravagers and polar bears are rideable (a small behavior pack is built into the world file; nothing extra to install)
 - **v3.16**: lava added (a lava lake in the west hills + underground lava pools), so the vanilla netherite upgrade path can be mined end to end
 - **v3.15**: mainland coastline and strait restored to v3.12; the ore island's west side steepened
@@ -96,7 +99,7 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Files in this folder
 
-- `KidsPlaza-v3.18.mcworld` — the world file
-- `使用说明-KidsPlaza-v3.18.txt` — v3.18 release notes (Chinese)
+- `KidsPlaza-v3.20.mcworld` — the world file
+- `使用说明-KidsPlaza-v3.20.txt` — v3.20 release notes (Chinese)
 - `README.md` — this guide in Chinese
 - `README_EN.md` — this file (English)
