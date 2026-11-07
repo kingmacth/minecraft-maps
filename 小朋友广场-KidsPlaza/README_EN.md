@@ -14,8 +14,8 @@ You spawn in a safe, lively town plaza: gear, food and tools in the shops are al
 | Game version | Bedrock Edition 1.21.130+ (Windows / Android / iOS) |
 | Mode | Survival (monsters roam outside town at night) |
 | Spawn | (3, 70, 6), the centre of the town plaza |
-| World file | `KidsPlaza-v3.20.mcworld` |
-| Current version | v3.20 |
+| World file | `KidsPlaza-v3.21.mcworld` |
+| Current version | v3.21 |
 
 Kid-friendly rules:
 
@@ -64,9 +64,9 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ### Import
 
-1. Download `KidsPlaza-v3.20.mcworld` from this folder
+1. Download `KidsPlaza-v3.21.mcworld` from this folder
 2. Open the file on Windows / Android / iOS — the game imports it automatically
-3. Pick **Kids Plaza 小朋友广场 v3.20** from your world list and play
+3. Pick **Kids Plaza 小朋友广场 v3.21** from your world list and play
 
 ### First steps
 
@@ -85,7 +85,8 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Version history
 
-- **v3.20** (current): more small animals on the forest island (rabbits!); a 16-tree auto-regrow grove — chopped parts grow back within 30 seconds; the lava lake and underground lava pools refill themselves every 30 seconds
+- **v3.21** (current): all in-game text is English only now (signs, chest names, world name); map content unchanged
+- **v3.20**: more small animals on the forest island (rabbits!); a 16-tree auto-regrow grove — chopped parts grow back within 30 seconds; the lava lake and underground lava pools refill themselves every 30 seconds
 - **v3.19**: Monster Island moved farther out, ~2x area, open-air spawners; ore island ore buried deep + starter shaft; three camp mine entrances; beacon made unbreakable (deny gap plugged)
 - **v3.18**: the mount park restocks itself — once every mount of a species has been ridden away, two fresh ones appear
 - **v3.17**: new Beast Mount Park — ravagers and polar bears are rideable (a small behavior pack is built into the world file; nothing extra to install)
@@ -99,7 +100,7 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Files in this folder
 
-- `KidsPlaza-v3.20.mcworld` — the world file
-- `使用说明-KidsPlaza-v3.20.txt` — v3.20 release notes (Chinese)
+- `KidsPlaza-v3.21.mcworld` — the world file
+- `使用说明-KidsPlaza-v3.21.txt` — v3.21 release notes (Chinese)
 - `README.md` — this guide in Chinese
 - `README_EN.md` — this file (English)
