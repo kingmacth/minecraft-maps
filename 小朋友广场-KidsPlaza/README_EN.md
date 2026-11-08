@@ -14,8 +14,8 @@ You spawn in a safe, lively town plaza: gear, food and tools in the shops are al
 | Game version | Bedrock Edition 1.21.130+ (Windows / Android / iOS) |
 | Mode | Survival (monsters roam outside town at night) |
 | Spawn | (3, 70, 6), the centre of the town plaza |
-| World file | `KidsPlaza-v3.25.mcworld` |
-| Current version | v3.25 |
+| World file | `KidsPlaza-v3.26.mcworld` |
+| Current version | v3.26 |
 
 Kid-friendly rules:
 
@@ -64,9 +64,9 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ### Import
 
-1. Download `KidsPlaza-v3.25.mcworld` from this folder
+1. Download `KidsPlaza-v3.26.mcworld` from this folder
 2. Open the file on Windows / Android / iOS — the game imports it automatically
-3. Pick **Kids Plaza 小朋友广场 v3.25** from your world list and play
+3. Pick **Kids Plaza 小朋友广场 v3.26** from your world list and play
 
 ### First steps
 
@@ -85,7 +85,8 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Version history
 
-- **v3.25** (current): the east stream now follows the terrain (no more deep trench with dirt walls), grass aprons around the field; sugarcane is planted and maintained by command blocks using the game's own fill commands — it plants itself within ~30 s of entering the world
+- **v3.26** (current): the sugarcane field moved to the open plain north of town (flat all around, no dirt wall behind it); the old slope-foot site is grass again; the mountain stream crosses the plain to irrigate it and flows east into the sea; command blocks plant with fill under both block names
+- **v3.25**: the east stream now follows the terrain (no more deep trench with dirt walls), grass aprons around the field; sugarcane is planted and maintained by command blocks using the game's own fill commands
 - **v3.24**: the sugarcane field moved to flat ground at the mountain foot (same height as the town; the old slope terrace is removed and the slope restored); the mountain stream flows past the field and all the way east into the sea
 - **v3.23**: sugarcane field fix — water/cane row alternation (water on both sides, 217 canes), regrow template with its own water row
 - **v3.22**: new sugarcane field at the foot of the north mountains, irrigated by a stream flowing down the slope; cane makes paper, paper makes firework rockets
@@ -104,7 +105,7 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Files in this folder
 
-- `KidsPlaza-v3.25.mcworld` — the world file
-- `使用说明-KidsPlaza-v3.25.txt` — v3.21 release notes (Chinese)
+- `KidsPlaza-v3.26.mcworld` — the world file
+- `使用说明-KidsPlaza-v3.26.txt` — v3.21 release notes (Chinese)
 - `README.md` — this guide in Chinese
 - `README_EN.md` — this file (English)
