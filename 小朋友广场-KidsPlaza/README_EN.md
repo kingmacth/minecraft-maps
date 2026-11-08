@@ -14,8 +14,8 @@ You spawn in a safe, lively town plaza: gear, food and tools in the shops are al
 | Game version | Bedrock Edition 1.21.130+ (Windows / Android / iOS) |
 | Mode | Survival (monsters roam outside town at night) |
 | Spawn | (3, 70, 6), the centre of the town plaza |
-| World file | `KidsPlaza-v3.23.mcworld` |
-| Current version | v3.23 |
+| World file | `KidsPlaza-v3.24.mcworld` |
+| Current version | v3.24 |
 
 Kid-friendly rules:
 
@@ -64,9 +64,9 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ### Import
 
-1. Download `KidsPlaza-v3.23.mcworld` from this folder
+1. Download `KidsPlaza-v3.24.mcworld` from this folder
 2. Open the file on Windows / Android / iOS — the game imports it automatically
-3. Pick **Kids Plaza 小朋友广场 v3.23** from your world list and play
+3. Pick **Kids Plaza 小朋友广场 v3.24** from your world list and play
 
 ### First steps
 
@@ -85,7 +85,8 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Version history
 
-- **v3.23** (current): fixed the sugarcane field so the cane actually grows — strict water/cane row alternation (water on both sides, 217 canes) and the regrow template has its own water row; harvested cane is restored within ~30 s
+- **v3.24** (current): the sugarcane field moved to flat ground at the mountain foot (same height as the town; the old slope terrace is removed and the slope restored); the mountain stream flows past the field and all the way east into the sea
+- **v3.23**: sugarcane field fix — water/cane row alternation (water on both sides, 217 canes), regrow template with its own water row
 - **v3.22**: new sugarcane field at the foot of the north mountains, irrigated by a stream flowing down the slope; cane makes paper, paper makes firework rockets
 - **v3.21**: all in-game text is English only now (signs, chest names, world name); map content unchanged
 - **v3.20**: more small animals on the forest island (rabbits!); a 16-tree auto-regrow grove — chopped parts grow back within 30 seconds; the lava lake and underground lava pools refill themselves every 30 seconds
@@ -102,7 +103,7 @@ On the southern plains, west of the farm (around -60, 100), a mount park keeps *
 
 ## Files in this folder
 
-- `KidsPlaza-v3.23.mcworld` — the world file
-- `使用说明-KidsPlaza-v3.23.txt` — v3.21 release notes (Chinese)
+- `KidsPlaza-v3.24.mcworld` — the world file
+- `使用说明-KidsPlaza-v3.24.txt` — v3.21 release notes (Chinese)
 - `README.md` — this guide in Chinese
 - `README_EN.md` — this file (English)
